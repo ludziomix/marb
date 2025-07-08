@@ -1,6 +1,0 @@
-# Ignoruj problematyczny folder notes oraz caly elementor-pro, jesli nie jest potrzebny
-wp-content/plugins/elementor-pro/assets/js/notes/
-wp-content/plugins/elementor-pro/
-# Dodatkowo, pliki WP, które często nie sa potrzebne w statycznej wersji
-wp-content/themes/
-wp-includes/
